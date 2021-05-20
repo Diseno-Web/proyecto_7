@@ -32,7 +32,7 @@ if ( post_password_required() ) {
 			if ( '1' === $proyect7_comment_count ) {
 				printf(
 					/* translators: 1: title. */
-					esc_html__( 'One thought on &ldquo;%1$s&rdquo;', 'proyect7' ),
+					esc_html__( 'One the thought on &ldquo;%1$s&rdquo;', 'proyect7' ),
 					'<span>' . wp_kses_post( get_the_title() ) . '</span>'
 				);
 			} else {
