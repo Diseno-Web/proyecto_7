@@ -88,7 +88,7 @@
 			</div>
 			<!-- footer-social -->
 			
-			<div class="copyright-txt">© 2020 Desarrollado por <a href="http://rogersoto.com"> Roger Soto</a> </div><!-- footer-copyright -->
+			<div class="copyright-txt">© 2021 Desarrollado por <a href="http://rogersoto.com"> Roger Soto</a> </div><!-- footer-copyright -->
 		</div><!-- salmond-sidebar-menu-footer -->
 	</div><!-- header-inner -->
 </header><!-- header-area -->
